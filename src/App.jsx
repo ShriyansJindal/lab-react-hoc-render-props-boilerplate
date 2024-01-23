@@ -15,7 +15,7 @@ function App() {
         <h1>Using HOC</h1>
         <Likeimagehoc/>
         <LikePostHoc/>
-        <h1>Using Rnderprops</h1>
+        <h1>Using Renderprops</h1>
         <LikeImageRender/>
         <LikePost/>
         
